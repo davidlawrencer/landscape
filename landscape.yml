@@ -9780,7 +9780,7 @@ landscape:
           - item:
             name: Embrace
             homepage_url: https://embrace.io/
-            repo_url: https://github.com/embrace-io/embrace-apple-sdk
+            repo_url: https://github.com/embrace-io
             logo: embrace-mobile.svg
             twitter: https://twitter.com/embracemobile
             crunchbase: https://www.crunchbase.com/organization/embrace-io
